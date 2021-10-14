@@ -1,6 +1,3 @@
-/* Esses excessos de comentarios são feitos para questões didaticas 
- Mas não é boa pratica em projetos reais 
-*/
 
 var altura = 0;
 var largura = 0;
