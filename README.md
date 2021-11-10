@@ -3,6 +3,6 @@
 
  Um Jogo de matar moscas bem interessante feito com javascript ao longo de um curso online de JavaScript. 
 
-Demo:  https://sistemas1309.000webhostapp.com/JogoMataMosca/index.html
+Demo: https://jairojeanbr.000webhostapp.com/projetos/JogoMataMosca/index.php
 
 
